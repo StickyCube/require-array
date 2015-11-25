@@ -11,4 +11,4 @@ before_script:
   - npm install -g gulp coveralls
 
 script:
-  - gulp test && cat coverage/lcov.info | coveralls
+  - gulp tests && cat coverage/lcov.info | coveralls

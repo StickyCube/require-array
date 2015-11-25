@@ -1,6 +1,10 @@
 # require-array
 > A node.js require utility to save on boilerplate code.
 
+[![Coverage Status](https://coveralls.io/repos/StickyCube/require-array/badge.svg?branch=master&service=github)](https://coveralls.io/github/StickyCube/require-array?branch=master)
+
+[![Build Status](https://travis-ci.org/StickyCube/require-array.svg?branch=master)](https://travis-ci.org/StickyCube/require-array)
+
 ### Description
 require-array is a simple utility for bulk requiring entire directories into a single array using glob patterns.
 
