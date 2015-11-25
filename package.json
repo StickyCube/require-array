@@ -1,5 +1,5 @@
 {
-  "name": "require-array",
+  "name": "require-multi",
   "version": "0.0.1",
   "description": "a node.js utility to easily require multiple modules using globs",
   "main": "index.js",
