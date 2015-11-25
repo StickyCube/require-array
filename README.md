@@ -1,4 +1,4 @@
-# dir-to-array
+# require-array
 > A node.js require utility to save on boilerplate code.
 
 ### Description

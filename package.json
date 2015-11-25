@@ -1,13 +1,13 @@
 {
   "name": "require-array",
-  "version": "0.0.0",
-  "description": "Require all modules in a directory and get them as an array",
+  "version": "0.0.1",
+  "description": "a node.js utility to easily require multiple modules using globs",
   "main": "index.js",
   "directories": {
     "test": "tests"
   },
   "scripts": {
-    "test": "mocha tests"
+    "test": "gulp test"
   },
   "keywords": [
     "require",
@@ -25,5 +25,13 @@
   "dependencies": {
     "underscore": "^1.8.3",
     "debug": "^2.2.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/StickyCube/require-array.git"
+  },
+  "bugs": {
+    "url": "https://github.com/StickyCube/require-array/issues"
+  },
+  "homepage": "https://github.com/StickyCube/require-array"
 }
